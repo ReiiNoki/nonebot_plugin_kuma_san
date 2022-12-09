@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nonebot_plugin_kuma_san"
+version = "1.0.0"
+authors = [
+  { name="ReiiNoki", email="reiinoki@outlook.com" },
+]
+description = "一个获取斯普拉遁3场地信息用的nonebot插件"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ReiiNoki/nonebot_plugin_kuma_san"
+"Bug Tracker" = "https://github.com/ReiiNoki/nonebot_plugin_kuma_san/issues"
