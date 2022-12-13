@@ -4,14 +4,9 @@ from datetime import datetime
 
 from typing import List
 
-from ...splat3_stage_helper.utils.common import fetch
-
-from ...splat3_stage_helper.pojo.bankara import Bankara
-from ...splat3_stage_helper.pojo.regular import Regular
-from ...splat3_stage_helper.pojo.fest_stage import FestStage
-from ...splat3_stage_helper.pojo.salmon_run import SalmonRun
-
-from ...splat3_stage_helper.utils.api_parse import *
+from ..model import Bankara, FestStage, Regular, SalmonRun
+from ..utils.common import fetch
+from ..utils.api_parse import *
 
 
 def parse_time(iso_from) -> str:

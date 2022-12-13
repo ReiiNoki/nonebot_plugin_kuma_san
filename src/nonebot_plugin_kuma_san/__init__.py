@@ -1,5 +1,6 @@
-from nonebot import on_command, logger
+import nonebot
 
+from nonebot import on_command, logger
 from nonebot.adapters.onebot.v11 import Bot, MessageEvent
 
 from .utils.common import ServiceException

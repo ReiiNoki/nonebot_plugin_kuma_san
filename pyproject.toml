@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nonebot_plugin_kuma_san"
-version = "1.0.0"
+version = "1.0.3"
 authors = [
   { name="ReiiNoki", email="reiinoki@outlook.com" },
 ]
@@ -16,6 +16,7 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+dependencies = ["nonebot2>=2.0.0rc2", "httpx>=0.23.0"]
 
 [project.urls]
 "Homepage" = "https://github.com/ReiiNoki/nonebot_plugin_kuma_san"

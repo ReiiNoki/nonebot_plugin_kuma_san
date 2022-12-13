@@ -1,4 +1,4 @@
-from ...splat3_stage_helper.utils.constants import *
+from ..utils.constants import *
 
 
 def parse_p1(stage_type) -> str:
