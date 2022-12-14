@@ -19,7 +19,7 @@
 nb plugin install nonebot_plugin_kuma_san
 ```
 ```
-pip install --upgrade nonebot_plugin_kuma_san
+pip install nonebot_plugin_kuma_san
 ```
 
 ## 使用
