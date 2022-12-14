@@ -3,7 +3,6 @@
 
 <p align="center">用于查询斯普拉遁3场地信息的 NoneBot2 插件</p></br>
 <p align="center">
-    <img src="https://img.shields.io/github/workflow/status/monsterxcn/Typecho-Theme-VOID/Build?style=flat-square" alt="actions">
     <img src="https://img.shields.io/github/license/monsterxcn/nonebot_plugin_epicfree?style=flat-square" alt="license">
     <img src="https://img.shields.io/pypi/v/nonebot_plugin_epicfree?style=flat-square" alt="pypi">
   <img src="https://img.shields.io/badge/python-3.8+-blue?style=flat-square" alt="python"><br />
