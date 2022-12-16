@@ -10,7 +10,7 @@ __plugin_meta__ = nonebot.plugin.PluginMetadata(
     name='熊老板-喷喷喷场地信息查询',
     description='一个查询斯普拉遁3场地信息的插件',
     usage='用法： 对我说 “reg(涂地)/chal(真格挑战)/open(真格区域)/baito(打工)/fest(祭典)/x(x段) + (可选)now/next\n例如‘baito‘直接查询打工的场地；’baito now‘查询现在打工的场地',
-    extra={'version': '1.0.0'}
+    extra={'version': '1.0.4'}
 )
 
 baito = on_command('baito', aliases={'打工'}, priority=2, block=True)
