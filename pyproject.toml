@@ -16,7 +16,7 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
-dependencies = ["nonebot2>=2.0.0rc2", "httpx>=0.23.0"]
+dependencies = ["nonebot2>=2.0.0rc2", "nonebot-adapter-onebot>=2.1.1", "httpx>=0.23.0"]
 
 [project.urls]
 "Homepage" = "https://github.com/ReiiNoki/nonebot_plugin_kuma_san"
