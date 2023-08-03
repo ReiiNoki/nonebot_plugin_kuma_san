@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nonebot_plugin_kuma_san"
-version = "1.0.4"
+version = "1.0.5"
 authors = [
   { name="ReiiNoki", email="reiinoki@outlook.com" },
 ]

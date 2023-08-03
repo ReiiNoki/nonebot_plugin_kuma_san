@@ -21,6 +21,9 @@ nb plugin install nonebot_plugin_kuma_san
 pip install nonebot_plugin_kuma_san
 ```
 
+## 更新
+v.1.0.5 2023.8.3 更新武器和场地的中日文翻译，添加新版本的武器和场地信息
+
 ## 使用
 
 对已安装本插件的nonebot发送以下指令可获取对应的场地信息
