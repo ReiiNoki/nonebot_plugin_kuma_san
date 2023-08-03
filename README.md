@@ -20,6 +20,8 @@ nb plugin install nonebot_plugin_kuma_san
 ```
 pip install nonebot_plugin_kuma_san
 ```
+## 更新
+v.1.0.1 2023.8.3 更新武器和场地的中日文翻译
 
 ## 使用
 
